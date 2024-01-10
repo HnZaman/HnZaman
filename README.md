@@ -1,3 +1,3 @@
 - 👋 Hi, I’m...↙️ <b><h3>MD. Hasanuzzaman Joy</h3></b>
 - 👀 I’m interested to learn programming languages.
-- 📫 I'm from Bangladesh 🇧🇩
+- 📫 I'm from Bangladesh
